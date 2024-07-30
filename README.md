@@ -2,6 +2,10 @@
 
 Este proyecto incluye scripts para listar y eliminar ramas antiguas de un repositorio de GitHub, así como para crear pull requests automáticamente.
 
+## SOAPUI Ready
+
+El archivo `ApiGithub.xml` es un poryecto SOAPUI para configurar y hacer pruebas a los repositorios.
+
 ## Configuración Inicial
 
 Antes de ejecutar los scripts, asegúrate de configurar tus credenciales de GitHub en el archivo `set_env.sh`.
