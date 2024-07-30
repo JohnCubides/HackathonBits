@@ -18,7 +18,7 @@ Abre el archivo `set_env.sh` y completa los datos necesarios:
 # set_env.sh
 
 # Token de acceso personal de GitHub
-export GITHUB_TOKEN="tu_token_de_github"
+export GITHUB_TOKEN="Bearer tu_token_de_github"
 
 # Nombre de usuario de GitHub
 export GITHUB_USERNAME="tu_usuario_de_github"
